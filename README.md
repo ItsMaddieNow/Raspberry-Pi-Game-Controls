@@ -1,5 +1,7 @@
-# Raspberry-Pi-Game-Controls
-One Paragraph of project description goes here
+# Raspberry Pi Game Controls
+The Control Scripts for my DIY Raspberry Pi Based game console
+
+## This Project Is WORK IN PROGRESS  
 
 ## Getting Started
 
