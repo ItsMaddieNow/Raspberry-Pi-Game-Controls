@@ -21,7 +21,7 @@ Tactile Switches
 What things you need to install the software and how to install them
 
 ```
-Python 
+Python 3
 ```
 
 ### Installing
@@ -68,17 +68,14 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python](https://www.python.org/) - What I Have Programmed This In
+* [Raspberry Pi Foundation](https://www.raspberrypi.org/) - Hardware
+* [Thonny](https://thonny.org/) - Code Editor
+* [Keyboard Python Module](https://pypi.org/project/keyboard/) - Module Used For Button Output
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Please don't try commit to this project as it is for an NCEA assessment 
 
 ## Authors
 
