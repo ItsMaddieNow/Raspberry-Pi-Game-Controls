@@ -1,8 +1,4 @@
 # Raspberry-Pi-Game-Controls
-The keybinds for my DIY raspberry pi game console. 
-# Components
-# Project Title
-
 One Paragraph of project description goes here
 
 ## Getting Started
