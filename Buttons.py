@@ -17,8 +17,8 @@ while True:
        keyboard.press('space')
     else:
        keyboard.release('space')
-    L = GPIO.input(25)
-    if (L == False):
+    A = GPIO.input(25)
+    if (A == False):
        keyboard.press('enter')
     else:
        keyboard.release('enter')
