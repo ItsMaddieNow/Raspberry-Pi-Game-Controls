@@ -1,3 +1,4 @@
+> THIS PROJECT HAS BEEN ABANDONED AND IS BEING REWRITTEN IN RUST TO BE AS IT IS GOING TO RUN IN THE BACKGROUND AVALIABLE [HERE](github.com/mariowhitmore/rust-raspi-controls)
 # Raspberry Pi Game Controls
 The Control Scripts for my DIY Raspberry Pi Based game console
 
